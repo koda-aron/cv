@@ -1,0 +1,87 @@
+body {
+    margin: 0;
+    background-color: #EEEEEE;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/** Containers **/
+
+.top-container {
+    background-color: #222831;
+    width: 100%;
+    height: 500px;
+    padding-top: 100px;
+}
+
+.middle-container {
+    background-color: #00ADB5;
+    width: 100%;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.bottom-container {
+    background-color: #393E46;
+    width: 100%;
+    height: 240px;
+    padding-top: 20px;
+    padding-bottom: 60px;
+}
+
+/** Headers and paragraphs **/
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    color: #EEEEEE;
+    padding-top: 250px
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #EEEEEE;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #EEEEEE;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    color: #EEEEEE;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+hr {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.footer-link {
+    position: relative;
+    top: 10px;
+    color: #EEEEEE;
+}
+
+.btn {
+    color: #EEEEEE;
+}
+
+/** Images **/
+
+.images {
+    width: 100px;
+    padding-top: 60px;
+}
+
+.logo {
+    position: relative;
+    width: 200px;
+    bottom: 350px;
+}
+
+.profile-img {
+    width: 160px;
+}
